@@ -39,8 +39,8 @@ iris-flower-prediction
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/iris-flower-prediction.git
-cd iris-flower-prediction
+git clone https://github.com/akshaysimharajula/iris-Flower-Species-Prediction-Using-Machine-Learning.git
+cd iris-Flower-Species-Prediction-Using-Machine-Learning
 ```
 
 ### Install Required Libraries
